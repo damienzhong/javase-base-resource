@@ -28,6 +28,15 @@ public class ArrayDemo{
 		
 		//方法改进为静态后，就可以直接通过类名调用
 		ArrayTool.printArray(arr);
+		System.out.println();
+		
+		//获取55的索引值
+		int index = ArrayTool.getIndex(arr,55);
+		System.out.println(index);
+		
+		//获取数组的最值
+		int max = ArrayTool.getMax(arr);
+		System.out.println(max);
 	}
 	
 	/*public static void printArray(int[] arr){
