@@ -2,6 +2,15 @@
 	我要堆数组进行操作
 	
 	在同一个文件夹下，类定义在两个文件中和定义在一个文件中其实一样的。
+	
+	如何制作说明书？
+		A：写一个工具类
+		B：对这个类加入文档注释
+		C：用工具解析文档注释
+			javadoc工具
+		D：格式
+			javadoc -d 目录 -author -version ArrayTool.java
+			目录：就可以写一个文件夹的路径
 */
 public class ArrayDemo{
 	public static void main(String[] args){
