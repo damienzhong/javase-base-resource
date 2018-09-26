@@ -10,7 +10,7 @@
 		A：字面值常量
 			"hello",10,true
 		B：自定义常量
-			final int x = 10
+			final int x = 10;
 */
 //final class Fu	//无法从最终Fu进行继承
 class Fu{
