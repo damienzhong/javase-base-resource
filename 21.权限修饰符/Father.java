@@ -1,14 +1,14 @@
 /*
 	权限修饰符：
-					本类	同一个包下（子类和无关系）
-		private	     Y			
-		默认         Y			Y
-		protected    Y			Y
-		public       Y  		Y
+					本类	同一个包下（子类和无关系）	不同包下（子类）	不同包下（无关系）
+		private	     Y															
+		默认         Y			Y							
+		protected    Y			Y							Y
+		public       Y  		Y							Y						Y
 */
 package com.damien;
 
-class Father{
+public class Father{
 	private void show(){
 		System.out.println("show");
 	}

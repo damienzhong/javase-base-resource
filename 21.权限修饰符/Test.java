@@ -2,7 +2,7 @@ package com.damien;
 
 import com.damien.Son;
 import com.damien.Father;
-class Test{
+public class Test{
 	public static void main(String[] args){
 		Father f = new Father();
 		//f.show();
