@@ -2,10 +2,15 @@ package com.damien.day03;
 
 /**
  * public boolean equals(Object obj):指示是否有其他对象“等于”这一个。
- *
+ *  重写的好处：
+ *      提高效率，提高程序的健壮性
  * ==:
  *  基本类型：比较的是值是否相同
  *  引用类型：比较的就是地址值是否相同
+ *
+ *  equals：
+ *      引用类型：默认情况下，比较的是地址值。
+ *      我们重写的话一般都是自动生成
  */
 public class StudentDemo {
     public static void main(String[] args) {
@@ -24,5 +29,13 @@ public class StudentDemo {
         s5.setAge(18);
         System.out.println(s1.equals(s4));
         System.out.println(s4.equals(s5));
+        System.out.println(s4.equals(s4));
+
+        Demo demo = new Demo();
+        System.out.println(s4.equals(demo));
     }
+}
+
+class Demo{
+    
 }
