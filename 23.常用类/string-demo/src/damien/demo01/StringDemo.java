@@ -1,4 +1,4 @@
-package damien.day01;
+package damien.demo01;
 
 
 /**
