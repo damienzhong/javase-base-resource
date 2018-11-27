@@ -10,4 +10,7 @@ package damien.demo03;
  *  public boolean isEmpty()
  */
 public class StringDemo {
+    public static void main(String[] args) {
+
+    }
 }
