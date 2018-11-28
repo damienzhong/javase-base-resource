@@ -2,6 +2,8 @@ package damien.demo04;
 
 /**
  *  看程序写结果
+ *
+ *  看源码
  */
 public class StringDemo03 {
     public static void main(String[] args) {
