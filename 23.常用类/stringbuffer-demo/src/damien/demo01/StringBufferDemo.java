@@ -15,4 +15,7 @@ package damien.demo01;
  *  如果使用前者做字符串的拼接，不会浪费太多的资源。
  */
 public class StringBufferDemo {
+    public static void main(String[] args) {
+
+    }
 }
