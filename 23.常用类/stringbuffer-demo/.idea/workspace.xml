@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="052c1933-aaa8-42fc-b709-8524a7f38499" name="Default Changelist" comment="把数组转成字符串输出练习">
-      <change afterPath="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="052c1933-aaa8-42fc-b709-8524a7f38499" name="Default Changelist" comment="面试题">
+      <change beforePath="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo03.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,8 +114,8 @@
       <file leaf-file-name="StringBufferDemo03.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/damien/demo03/StringBufferDemo03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            <state relative-caret-position="328">
+              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -235,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringBufferDemo (1)">
+  <component name="RunManager" selected="Application.StringBufferDemo03">
     <configuration name="StringBufferDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="damien.demo02.StringBufferDemo" />
       <module name="stringbuffer-demo" />
@@ -252,6 +251,16 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="damien.demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StringBufferDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="damien.demo03.StringBufferDemo03" />
+      <module name="stringbuffer-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="damien.demo03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,9 +290,11 @@
       <item itemvalue="Application.StringBufferDemo2" />
       <item itemvalue="Application.StringBufferDemo3" />
       <item itemvalue="Application.StringBufferDemo (1)" />
+      <item itemvalue="Application.StringBufferDemo03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBufferDemo03" />
         <item itemvalue="Application.StringBufferDemo (1)" />
         <item itemvalue="Application.StringBufferDemo3" />
         <item itemvalue="Application.StringBufferDemo2" />
@@ -304,7 +315,7 @@
       <workItem from="1543719183000" duration="2244000" />
       <workItem from="1543739462182" duration="13000" />
       <workItem from="1543739552094" duration="6880000" />
-      <workItem from="1543807702815" duration="7121000" />
+      <workItem from="1543807702815" duration="9450000" />
     </task>
     <task id="LOCAL-00001" summary="reload project">
       <created>1543739582497</created>
@@ -362,11 +373,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543820955912</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="面试题">
+      <created>1543822928599</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1543822928599</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16258000" />
+    <option name="totallyTimeSpent" value="18587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -385,13 +403,13 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.21364653" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3277405" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3277405" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14285715" />
@@ -421,7 +439,13 @@
     <MESSAGE value="StringBuffer的截取功能" />
     <MESSAGE value="StringBuffer和String的相互转换" />
     <MESSAGE value="把数组转成字符串输出练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="把数组转成字符串输出练习" />
+    <MESSAGE value="面试题" />
+    <option name="LAST_COMMIT_MESSAGE" value="面试题" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/damien/demo01/StringBufferDemo.java">
@@ -504,8 +528,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/damien/demo03/StringBufferDemo03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        <state relative-caret-position="328">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
         </state>
       </provider>
     </entry>
