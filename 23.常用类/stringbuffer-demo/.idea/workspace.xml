@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="052c1933-aaa8-42fc-b709-8524a7f38499" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/javase-base-resource.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,8 +69,8 @@
       <file leaf-file-name="StringBufferDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/damien/demo02/StringBufferDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="100">
+              <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -111,7 +108,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="717" />
     <option name="y" value="325" />
     <option name="width" value="1400" />
@@ -244,7 +241,7 @@
       <workItem from="1543719183000" duration="2244000" />
       <workItem from="1543739462182" duration="13000" />
       <workItem from="1543739552094" duration="6880000" />
-      <workItem from="1543807702815" duration="300000" />
+      <workItem from="1543807702815" duration="753000" />
     </task>
     <task id="LOCAL-00001" summary="reload project">
       <created>1543739582497</created>
@@ -271,7 +268,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9437000" />
+    <option name="totallyTimeSpent" value="9890000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -369,8 +366,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/damien/demo02/StringBufferDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="100">
+          <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
         </state>
       </provider>
     </entry>
