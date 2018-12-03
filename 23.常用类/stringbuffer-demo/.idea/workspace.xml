@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="052c1933-aaa8-42fc-b709-8524a7f38499" name="Default Changelist" comment="StringBuffer的截取功能">
-      <change afterPath="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo.java" afterDir="false" />
+    <list default="true" id="052c1933-aaa8-42fc-b709-8524a7f38499" name="Default Changelist" comment="StringBuffer和String的相互转换">
+      <change afterPath="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -94,8 +94,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringBufferDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringBufferDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/damien/demo03/StringBufferDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringBufferDemo02.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/damien/demo03/StringBufferDemo02.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
               <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
@@ -130,6 +139,7 @@
         <option value="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo02.java" />
         <option value="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo03.java" />
         <option value="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo02.java" />
       </list>
     </option>
   </component>
@@ -284,7 +294,7 @@
       <workItem from="1543719183000" duration="2244000" />
       <workItem from="1543739462182" duration="13000" />
       <workItem from="1543739552094" duration="6880000" />
-      <workItem from="1543807702815" duration="3818000" />
+      <workItem from="1543807702815" duration="5562000" />
     </task>
     <task id="LOCAL-00001" summary="reload project">
       <created>1543739582497</created>
@@ -328,11 +338,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543818354416</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="StringBuffer和String的相互转换">
+      <created>1543818694105</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1543818694105</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12955000" />
+    <option name="totallyTimeSpent" value="14699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -385,7 +402,8 @@
     <MESSAGE value="StringBuffer replace" />
     <MESSAGE value="StringBuffer reverse" />
     <MESSAGE value="StringBuffer的截取功能" />
-    <option name="LAST_COMMIT_MESSAGE" value="StringBuffer的截取功能" />
+    <MESSAGE value="StringBuffer和String的相互转换" />
+    <option name="LAST_COMMIT_MESSAGE" value="StringBuffer和String的相互转换" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/damien/demo01/StringBufferDemo.java">
@@ -453,6 +471,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/damien/demo03/StringBufferDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/demo03/StringBufferDemo02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
