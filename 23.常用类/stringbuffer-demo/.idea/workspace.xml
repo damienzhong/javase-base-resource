@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="052c1933-aaa8-42fc-b709-8524a7f38499" name="Default Changelist" comment="StringBuffer和String的相互转换">
-      <change afterPath="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo02.java" afterDir="false" />
+    <list default="true" id="052c1933-aaa8-42fc-b709-8524a7f38499" name="Default Changelist" comment="把数组转成字符串输出练习">
+      <change afterPath="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -103,11 +103,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringBufferDemo02.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringBufferDemo02.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/damien/demo03/StringBufferDemo02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="250">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringBufferDemo03.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/damien/demo03/StringBufferDemo03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -140,6 +149,7 @@
         <option value="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo03.java" />
         <option value="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo.java" />
         <option value="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo02.java" />
+        <option value="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo03.java" />
       </list>
     </option>
   </component>
@@ -294,7 +304,7 @@
       <workItem from="1543719183000" duration="2244000" />
       <workItem from="1543739462182" duration="13000" />
       <workItem from="1543739552094" duration="6880000" />
-      <workItem from="1543807702815" duration="5562000" />
+      <workItem from="1543807702815" duration="7121000" />
     </task>
     <task id="LOCAL-00001" summary="reload project">
       <created>1543739582497</created>
@@ -345,11 +355,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543818694105</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="把数组转成字符串输出练习">
+      <created>1543820955912</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1543820955912</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14699000" />
+    <option name="totallyTimeSpent" value="16258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -374,10 +391,10 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3277405" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3277405" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14285715" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14285715" />
       <window_info id="JRebel" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -403,7 +420,8 @@
     <MESSAGE value="StringBuffer reverse" />
     <MESSAGE value="StringBuffer的截取功能" />
     <MESSAGE value="StringBuffer和String的相互转换" />
-    <option name="LAST_COMMIT_MESSAGE" value="StringBuffer和String的相互转换" />
+    <MESSAGE value="把数组转成字符串输出练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="把数组转成字符串输出练习" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/damien/demo01/StringBufferDemo.java">
@@ -479,8 +497,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/damien/demo03/StringBufferDemo02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/demo03/StringBufferDemo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
         </state>
       </provider>
     </entry>
