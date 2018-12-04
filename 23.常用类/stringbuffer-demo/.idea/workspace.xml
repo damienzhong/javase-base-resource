@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="052c1933-aaa8-42fc-b709-8524a7f38499" name="Default Changelist" comment="面试题">
+    <list default="true" id="052c1933-aaa8-42fc-b709-8524a7f38499" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo03.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,35 +44,53 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1022" />
+          <entry key="java" value="1244" />
           <entry key="txt" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1022" />
+          <entry key="JAVA" value="1244" />
           <entry key="PLAIN_TEXT" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="10" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/damien/demo02/StringBufferDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="96">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/damien/demo02/StringBufferDemo02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/damien/demo02/StringBufferDemo03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -99,12 +118,12 @@
         <option value="$PROJECT_DIR$/src/damien/demo01/StringBufferDemo.java" />
         <option value="$PROJECT_DIR$/src/damien/demo01/StringBufferDemo2.java" />
         <option value="$PROJECT_DIR$/src/damien/demo01/StringBufferDemo3.java" />
-        <option value="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo02.java" />
-        <option value="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo03.java" />
         <option value="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo.java" />
         <option value="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo02.java" />
         <option value="$PROJECT_DIR$/src/damien/demo03/StringBufferDemo03.java" />
         <option value="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo02.java" />
+        <option value="$PROJECT_DIR$/src/damien/demo02/StringBufferDemo03.java" />
       </list>
     </option>
   </component>
@@ -174,7 +193,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543932096779" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543933721594" />
     <property name="last_opened_file_path" value="D:/MyGit/giveu-store/giveu-shop-manage" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -196,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringBufferDemo (1)">
+  <component name="RunManager" selected="Application.StringBufferDemo03 (1)">
     <configuration name="StringBufferDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="damien.demo02.StringBufferDemo" />
       <module name="stringbuffer-demo" />
@@ -210,12 +229,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBufferDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="damien.demo01.StringBufferDemo" />
+    <configuration name="StringBufferDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="damien.demo02.StringBufferDemo02" />
       <module name="stringbuffer-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="damien.demo01.*" />
+          <option name="PATTERN" value="damien.demo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBufferDemo03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="damien.demo02.StringBufferDemo03" />
+      <module name="stringbuffer-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="damien.demo02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,19 +261,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="damien.demo03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringBufferDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="damien.demo01.StringBufferDemo2" />
-      <module name="stringbuffer-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="damien.demo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,19 +282,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringBufferDemo" />
-      <item itemvalue="Application.StringBufferDemo2" />
       <item itemvalue="Application.StringBufferDemo3" />
       <item itemvalue="Application.StringBufferDemo (1)" />
       <item itemvalue="Application.StringBufferDemo03" />
+      <item itemvalue="Application.StringBufferDemo02" />
+      <item itemvalue="Application.StringBufferDemo03 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBufferDemo03 (1)" />
+        <item itemvalue="Application.StringBufferDemo02" />
         <item itemvalue="Application.StringBufferDemo (1)" />
         <item itemvalue="Application.StringBufferDemo03" />
         <item itemvalue="Application.StringBufferDemo3" />
-        <item itemvalue="Application.StringBufferDemo2" />
-        <item itemvalue="Application.StringBufferDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +312,7 @@
       <workItem from="1543739462182" duration="13000" />
       <workItem from="1543739552094" duration="6880000" />
       <workItem from="1543807702815" duration="9450000" />
-      <workItem from="1543930530064" duration="1377000" />
+      <workItem from="1543930530064" duration="2988000" />
     </task>
     <task id="LOCAL-00001" summary="reload project">
       <created>1543739582497</created>
@@ -358,11 +377,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543822928599</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="StringBuffer的替换功能">
+      <created>1543932142957</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1543932142957</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19964000" />
+    <option name="totallyTimeSpent" value="21575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -418,10 +444,10 @@
     <MESSAGE value="StringBuffer和String的相互转换" />
     <MESSAGE value="把数组转成字符串输出练习" />
     <MESSAGE value="面试题" />
-    <option name="LAST_COMMIT_MESSAGE" value="面试题" />
+    <MESSAGE value="StringBuffer的替换功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="StringBuffer的替换功能" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/src.zip!/java/lang/StringBuffer.java" />
     <entry file="file://$PROJECT_DIR$/src/damien/demo01/StringBufferDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
@@ -457,20 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/damien/demo02/StringBufferDemo03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/damien/demo02/StringBufferDemo02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/damien/demo01/StringBufferDemo3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -478,10 +490,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="1425" column="24" selection-start-line="1425" selection-start-column="24" selection-end-line="1425" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="661" column="18" selection-start-line="661" selection-start-column="14" selection-end-line="661" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/damien/demo02/StringBufferDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="96">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/demo02/StringBufferDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/demo02/StringBufferDemo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>
