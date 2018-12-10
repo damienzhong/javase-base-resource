@@ -19,6 +19,7 @@ package damien.select;
  *                  max = mid - 1;
  *              小：右边找
  *                  min = mid + 1;
+ *          E：回到B
  */
 public class BinarySearch {
     public static void main(String[] args) {
