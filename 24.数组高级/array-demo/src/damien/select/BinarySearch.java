@@ -1,5 +1,7 @@
 package damien.select;
 
+import sun.awt.SunHints;
+
 /**
  * 查找：
  *      基本查找：数组元素无序（从头找到尾）
@@ -24,6 +26,28 @@ package damien.select;
 public class BinarySearch {
     public static void main(String[] args) {
         int[] arr = {11, 22, 33, 44, 55, 66, 77};
+
+
     }
 
+    public static int binarySearch(int[] arr,int value){
+        //定义最大索引，最小索引
+        int max = arr.length - 1;
+        int min = 0;
+
+        //计算出中间索引
+        int mid = (max + min)/2;
+
+        //拿中间索引的值和要查找的值进行比较
+        while (arr[mid] != value){
+            if (arr[mid]>value){
+                max = mid - 1;
+            }else if(arr[mid]<value){
+                min = mid + 1;
+            }
+
+            mid = (max + min)/2;
+        }
+        return mid;
+    }
 }
