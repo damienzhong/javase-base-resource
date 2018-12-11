@@ -1,7 +1,5 @@
 package damien.select;
 
-import sun.awt.SunHints;
-
 /**
  * 查找：
  * 基本查找：数组元素无序（从头找到尾）
