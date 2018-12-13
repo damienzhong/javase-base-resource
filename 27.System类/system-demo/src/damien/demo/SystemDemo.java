@@ -5,7 +5,7 @@ package damien.demo;
  *
  *  方法：
  *      public static void gc():运行垃圾回收器
- *      public static void exit(int status)
+ *      public static void exit(int status)终止当前正在运行的java虚拟机。该参数作为状态代码；按惯例，一个非零状态码表示异常终止。
  *      public static long currentTimeMillis()
  */
 public class SystemDemo {
