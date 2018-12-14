@@ -1,2 +1,2 @@
 # javase-base-resource
-My blog about the source code for Java review, blog address:
+由浅入深，深度剖析不一样的JavaSE
