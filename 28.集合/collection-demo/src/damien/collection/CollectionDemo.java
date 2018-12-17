@@ -42,8 +42,8 @@ import java.util.Collection;
 public class CollectionDemo {
     public static void main(String[] args) {
         Collection c = new ArrayList();
-
         System.out.println(c);
+        System.out.println(c.isEmpty());
         Student student1 = new Student("呆萌钟", 25);
         Student student2 = new Student("老付", 24);
         Student student3 = new Student("小锐", 22);
@@ -55,14 +55,14 @@ public class CollectionDemo {
         c.add(student1);
         c.add(student2);
         c.add(student3);
-        System.out.println(c);
+        System.out.println("c:"+c);
         //boolean addAll(Collection c):添加一个集合的元素
         Collection c2 = new ArrayList();
         c2.add(student4);
         c2.add(student5);
-        System.out.println(c2);
+        System.out.println("c2:"+c2);
         c.addAll(c2);
-        System.out.println(c);
+        System.out.println("c:"+c);
         System.out.println("---------------------------");
         //删除功能
         //void clear()：从这个集合中移除所有的元素
@@ -74,13 +74,26 @@ public class CollectionDemo {
         Collection c3 = new ArrayList();
         c3.add(student6);
         c3.addAll(c2);
-        c.removeAll(c3);
-        System.out.println(c);
+//        c.removeAll(c3);
+        System.out.println("c:"+c);
         System.out.println("---------------------------");
         //长度功能
         //int size()：获取集合的长度
-        System.out.println(c.size());
-        System.out.println(c2.size());
-        System.out.println(c3.size());
+//        System.out.println(c.size());
+//        System.out.println(c2.size());
+//        System.out.println(c3.size());
+
+        //判断功能
+        //boolean contains(Object o)：判断集合中是否包含指定的元素
+//        System.out.println(c.contains(student1));
+//        System.out.println(c.contains(new Student("呆萌钟",25)));
+        //boolean containsAll(Collection c)：判断集合中是否包含指定的集合元素
+        Collection c4 = new ArrayList();
+//        c4.add(new Student("眨眼睛",22));
+        c4.add(student4);
+        c4.add(student1);
+//        System.out.println(c2.containsAll(c4));
+        // boolean isEmpty()：判断集合是否为空
+        System.out.println(c.isEmpty());
     }
 }
