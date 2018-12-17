@@ -1,5 +1,13 @@
 package damien.collection;
 
+//import java.util.ArrayList;
+
+
+import damien.array.Student;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
 /**
  * 数组与集合的区别：
  *      A:长度区别：
@@ -33,6 +41,26 @@ package damien.collection;
  */
 public class CollectionDemo {
     public static void main(String[] args) {
+        Collection c = new ArrayList();
 
+        System.out.println(c);
+        Student student1 = new Student("呆萌钟", 25);
+        Student student2 = new Student("老付", 24);
+        Student student3 = new Student("小锐", 22);
+        Student student4 = new Student("眨眼睛", 22);
+        Student student5 = new Student("Zj", 29);
+        //添加功能
+        //boolean add(Object o)：添加一个元素
+        c.add(student1);
+        c.add(student2);
+        c.add(student3);
+        System.out.println(c);
+        //boolean addAll(Collection c):添加一个集合的元素
+        Collection c2 = new ArrayList();
+        c2.add(student4);
+        c2.add(student5);
+        System.out.println(c2);
+        c.addAll(c2);
+        System.out.println(c);
     }
 }
