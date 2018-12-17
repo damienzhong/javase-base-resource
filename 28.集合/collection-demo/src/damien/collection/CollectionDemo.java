@@ -49,6 +49,7 @@ public class CollectionDemo {
         Student student3 = new Student("小锐", 22);
         Student student4 = new Student("眨眼睛", 22);
         Student student5 = new Student("Zj", 29);
+        Student student6 = new Student("努力", 20);
         //添加功能
         //boolean add(Object o)：添加一个元素
         c.add(student1);
@@ -62,5 +63,24 @@ public class CollectionDemo {
         System.out.println(c2);
         c.addAll(c2);
         System.out.println(c);
+        System.out.println("---------------------------");
+        //删除功能
+        //void clear()：从这个集合中移除所有的元素
+//        c.clear();
+//        System.out.println(c);
+        //boolean remove(Object o)：移除一个元素
+//        c.remove(student1);
+        //boolean removeAll(Collection c)
+        Collection c3 = new ArrayList();
+        c3.add(student6);
+        c3.addAll(c2);
+        c.removeAll(c3);
+        System.out.println(c);
+        System.out.println("---------------------------");
+        //长度功能
+        //int size()：获取集合的长度
+        System.out.println(c.size());
+        System.out.println(c2.size());
+        System.out.println(c3.size());
     }
 }
