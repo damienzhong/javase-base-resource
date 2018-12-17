@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2479811-d3d8-40aa-a2e3-6fa378fc7c0a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/damien/collection/CollectionDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/damien/collection/CollectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/damien/collection/CollectionDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,26 +53,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1101" />
-          <entry key="txt" value="44" />
+          <entry key="java" value="1268" />
+          <entry key="txt" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1101" />
-          <entry key="PLAIN_TEXT" value="44" />
+          <entry key="JAVA" value="1268" />
+          <entry key="PLAIN_TEXT" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="5" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
     </session>
@@ -88,11 +88,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/damien/collection/CollectionDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+            <state relative-caret-position="332">
+              <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/damien/collection/CollectionDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/damien/array/Student.java" />
         <option value="$PROJECT_DIR$/src/damien/array/ArrayDemo.java" />
         <option value="$PROJECT_DIR$/src/damien/collection/CollectionDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/collection/CollectionDemo2.java" />
       </list>
     </option>
   </component>
@@ -202,7 +215,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545057123569" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545058398363" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -219,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CollectionDemo">
+  <component name="RunManager" selected="Application.CollectionDemo2">
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="damien.array.ArrayDemo" />
       <module name="collection-demo" />
@@ -246,12 +259,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CollectionDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="damien.collection.CollectionDemo2" />
+      <module name="collection-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="damien.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ArrayDemo" />
       <item itemvalue="Application.CollectionDemo" />
+      <item itemvalue="Application.CollectionDemo2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionDemo2" />
         <item itemvalue="Application.CollectionDemo" />
         <item itemvalue="Application.ArrayDemo" />
       </list>
@@ -270,7 +298,7 @@
       <workItem from="1544886387986" duration="121000" />
       <workItem from="1544886751470" duration="1470000" />
       <workItem from="1544925677480" duration="6333000" />
-      <workItem from="1545046916800" duration="4082000" />
+      <workItem from="1545046916800" duration="5221000" />
     </task>
     <task id="LOCAL-00001" summary="对象数组">
       <created>1544887982807</created>
@@ -307,11 +335,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545056061369</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Collection的判断功能">
+      <created>1545057172379</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1545057172379</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12006000" />
+    <option name="totallyTimeSpent" value="13145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -359,7 +394,8 @@
     <MESSAGE value="Collection功能概述" />
     <MESSAGE value="Collection的添加功能" />
     <MESSAGE value="Collection的删除与长度功能" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collection的删除与长度功能" />
+    <MESSAGE value="Collection的判断功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection的判断功能" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/damien/array/Student.java">
@@ -405,8 +441,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/damien/collection/CollectionDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+        <state relative-caret-position="332">
+          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/collection/CollectionDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
