@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e2479811-d3d8-40aa-a2e3-6fa378fc7c0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/damien/数据结构" beforeDir="false" afterPath="$PROJECT_DIR$/src/damien/数据结构" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,14 +55,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="3286" />
-          <entry key="txt" value="164" />
+          <entry key="txt" value="171" />
           <entry key="数据结构" value="233" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="3286" />
-          <entry key="PLAIN_TEXT" value="397" />
+          <entry key="PLAIN_TEXT" value="404" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -148,7 +147,7 @@
         <entry file="file://$PROJECT_DIR$/src/damien/数据结构">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -246,7 +245,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/MyGit/javase-base-resource/28.集合/collection-demo/src/damien/array/ArrayDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545449606489" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545449765360" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -364,7 +363,7 @@
       <workItem from="1545225561326" duration="4812000" />
       <workItem from="1545313449855" duration="5900000" />
       <workItem from="1545404197211" duration="905000" />
-      <workItem from="1545442001752" duration="6225000" />
+      <workItem from="1545442001752" duration="6492000" />
     </task>
     <task id="LOCAL-00001" summary="对象数组">
       <created>1544887982807</created>
@@ -520,17 +519,23 @@
       <option name="project" value="LOCAL" />
       <updated>1545447581003</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Link">
+      <created>1545449692001</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1545449692001</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34722000" />
+    <option name="totallyTimeSpent" value="34989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49777284" visible="true" weight="0.15831557" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49777284" visible="true" weight="0.15831557" />
       <window_info id="Structure" order="1" sideWeight="0.5016685" side_tool="true" weight="0.15511727" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -539,7 +544,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.344098" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.344098" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -587,7 +592,8 @@
     <MESSAGE value="并发修改异常问题解决方案" />
     <MESSAGE value="Stack and Queue" />
     <MESSAGE value="Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array" />
+    <MESSAGE value="Link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Link" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/jre/lib/javaws.jar!/com/sun/javaws/CacheUtil.class">
@@ -726,7 +732,7 @@
     <entry file="file://$PROJECT_DIR$/src/damien/数据结构">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
