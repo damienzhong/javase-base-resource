@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2479811-d3d8-40aa-a2e3-6fa378fc7c0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/damien/list/arraylist/VectorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/damien/list/arraylist/LinkedListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../数据结构图.eddx" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构图.eddx" afterDir="false" />
     </list>
@@ -45,41 +45,41 @@
     <session id="1666865754">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="List的实现类特点" value="196" />
-          <entry key="java" value="3777" />
-          <entry key="txt" value="195" />
+          <entry key="java" value="3973" />
+          <entry key="txt" value="205" />
           <entry key="数据结构" value="233" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3777" />
-          <entry key="PLAIN_TEXT" value="624" />
+          <entry key="JAVA" value="3973" />
+          <entry key="PLAIN_TEXT" value="634" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="List的实现类特点" value="1" />
           <entry key="class" value="1" />
-          <entry key="java" value="23" />
+          <entry key="java" value="24" />
           <entry key="数据结构" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="23" />
+          <entry key="JAVA" value="24" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -91,19 +91,7 @@
         <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/ArrayListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="744">
-              <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/VectorDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <caret line="34" column="49" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,9 +100,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/VectorDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/LinkedListDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/src.zip!/java/util/Vector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
+            <state relative-caret-position="16440">
               <caret line="733" column="22" selection-start-line="733" selection-start-column="22" selection-end-line="733" selection-end-column="22" />
               <folding>
                 <element signature="e#27935#27936#0" expanded="true" />
@@ -164,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/damien/list/List的实现类特点" />
         <option value="$PROJECT_DIR$/src/damien/list/arraylist/ArrayListDemo.java" />
         <option value="$PROJECT_DIR$/src/damien/list/arraylist/VectorDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/list/arraylist/LinkedListDemo.java" />
       </list>
     </option>
   </component>
@@ -185,6 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,14 +239,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/MyGit/javase-base-resource/28.集合/collection-demo/src/damien/array/ArrayDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545487655562" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545533162108" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -257,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VectorDemo">
+  <component name="RunManager" selected="Application.LinkedListDemo">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="damien.list.arraylist.ArrayListDemo" />
       <module name="collection-demo" />
@@ -271,12 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="damien.list.ListDemo4" />
+    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="damien.list.arraylist.LinkedListDemo" />
       <module name="collection-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="damien.list.*" />
+          <option name="PATTERN" value="damien.list.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,19 +334,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ListDemo4" />
       <item itemvalue="Application.ListDemo5" />
       <item itemvalue="Application.ListTest" />
       <item itemvalue="Application.ArrayListDemo" />
       <item itemvalue="Application.VectorDemo" />
+      <item itemvalue="Application.LinkedListDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListDemo" />
         <item itemvalue="Application.VectorDemo" />
         <item itemvalue="Application.ArrayListDemo" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.ListDemo5" />
-        <item itemvalue="Application.ListDemo4" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +369,8 @@
       <workItem from="1545313449855" duration="5900000" />
       <workItem from="1545404197211" duration="905000" />
       <workItem from="1545442001752" duration="9483000" />
-      <workItem from="1545477168377" duration="3208000" />
+      <workItem from="1545477168377" duration="4240000" />
+      <workItem from="1545529775905" duration="1197000" />
     </task>
     <task id="LOCAL-00001" summary="对象数组">
       <created>1544887982807</created>
@@ -536,17 +547,24 @@
       <option name="project" value="LOCAL" />
       <updated>1545486227496</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Vector旧版方法">
+      <created>1545487742513</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1545487742513</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41188000" />
+    <option name="totallyTimeSpent" value="43417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49777284" visible="true" weight="0.15991472" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49777284" visible="true" weight="0.16151386" />
       <window_info id="Structure" order="1" sideWeight="0.5016685" side_tool="true" weight="0.15511727" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -554,7 +572,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26726058" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -606,7 +624,8 @@
     <MESSAGE value="Link" />
     <MESSAGE value="List实现类的特点" />
     <MESSAGE value="ArrayList的迭代遍历" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayList的迭代遍历" />
+    <MESSAGE value="Vector旧版方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vector旧版方法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/jre/lib/javaws.jar!/com/sun/javaws/CacheUtil.class">
@@ -633,15 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1130">
           <caret line="483" column="5" lean-forward="true" selection-start-line="483" selection-start-column="5" selection-end-line="483" selection-end-column="5" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-            <element signature="e#31007#31008#0" expanded="true" />
-            <element signature="e#31039#31040#0" expanded="true" />
-            <element signature="e#31046#33340#0" />
-            <element signature="e#31382#31383#0" expanded="true" />
-            <element signature="e#31427#31428#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -656,9 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -676,9 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -750,30 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="51" column="49" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="51" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/ArrayListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="733" column="22" selection-start-line="733" selection-start-column="22" selection-end-line="733" selection-end-column="22" />
-          <folding>
-            <element signature="e#27935#27936#0" expanded="true" />
-            <element signature="e#27980#27981#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,13 +764,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/VectorDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/ArrayListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="744">
+          <caret line="34" column="49" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16440">
+          <caret line="733" column="22" selection-start-line="733" selection-start-column="22" selection-end-line="733" selection-end-column="22" />
+          <folding>
+            <element signature="e#27935#27936#0" expanded="true" />
+            <element signature="e#27980#27981#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/VectorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/LinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
         </state>
       </provider>
     </entry>
