@@ -1,4 +1,4 @@
-package damien.list.arraylist;
+package damien.list;
 
 import damien.array.Student;
 

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2479811-d3d8-40aa-a2e3-6fa378fc7c0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/damien/list/arraylist/LinkedListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/damien/list/arraylist/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/damien/list/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/damien/list/arraylist/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/damien/list/LinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/damien/list/arraylist/VectorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/damien/list/VectorDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../数据结构图.eddx" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构图.eddx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,15 +59,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="List的实现类特点" value="196" />
-          <entry key="java" value="3973" />
-          <entry key="txt" value="205" />
+          <entry key="java" value="4003" />
+          <entry key="txt" value="220" />
           <entry key="数据结构" value="233" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3973" />
-          <entry key="PLAIN_TEXT" value="634" />
+          <entry key="JAVA" value="4003" />
+          <entry key="PLAIN_TEXT" value="649" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -88,22 +90,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/ArrayListDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/damien/list/ArrayListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="34" column="49" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/VectorDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state relative-caret-position="202">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,10 +102,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/LinkedListDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/damien/list/VectorDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+            <state relative-caret-position="202">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/damien/list/LinkedListDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -174,6 +176,7 @@
         <option value="$PROJECT_DIR$/src/damien/list/arraylist/ArrayListDemo.java" />
         <option value="$PROJECT_DIR$/src/damien/list/arraylist/VectorDemo.java" />
         <option value="$PROJECT_DIR$/src/damien/list/arraylist/LinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/list/LinkedListDemo.java" />
       </list>
     </option>
   </component>
@@ -226,14 +229,6 @@
               <item name="damien" type="462c0819:PsiDirectoryNode" />
               <item name="list" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="collection-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="collection-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="damien" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-              <item name="arraylist" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -245,7 +240,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/MyGit/javase-base-resource/28.集合/collection-demo/src/damien/array/ArrayDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545533162108" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545533234346" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -269,11 +264,11 @@
   </component>
   <component name="RunManager" selected="Application.LinkedListDemo">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="damien.list.arraylist.ArrayListDemo" />
+      <option name="MAIN_CLASS_NAME" value="damien.list.ArrayListDemo" />
       <module name="collection-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="damien.list.arraylist.*" />
+          <option name="PATTERN" value="damien.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,11 +277,11 @@
       </method>
     </configuration>
     <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="damien.list.arraylist.LinkedListDemo" />
+      <option name="MAIN_CLASS_NAME" value="damien.list.LinkedListDemo" />
       <module name="collection-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="damien.list.arraylist.*" />
+          <option name="PATTERN" value="damien.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,11 +316,11 @@
       </method>
     </configuration>
     <configuration name="VectorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="damien.list.arraylist.VectorDemo" />
+      <option name="MAIN_CLASS_NAME" value="damien.list.VectorDemo" />
       <module name="collection-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="damien.list.arraylist.*" />
+          <option name="PATTERN" value="damien.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,7 +365,7 @@
       <workItem from="1545404197211" duration="905000" />
       <workItem from="1545442001752" duration="9483000" />
       <workItem from="1545477168377" duration="4240000" />
-      <workItem from="1545529775905" duration="1197000" />
+      <workItem from="1545529775905" duration="2082000" />
     </task>
     <task id="LOCAL-00001" summary="对象数组">
       <created>1544887982807</created>
@@ -554,17 +549,23 @@
       <option name="project" value="LOCAL" />
       <updated>1545487742513</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="LinkedList特有方法">
+      <created>1545533215425</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1545533215426</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43417000" />
+    <option name="totallyTimeSpent" value="44302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49777284" visible="true" weight="0.16151386" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49777284" visible="true" weight="0.16151386" />
       <window_info id="Structure" order="1" sideWeight="0.5016685" side_tool="true" weight="0.15511727" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -573,7 +574,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26726058" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26726058" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -625,7 +626,8 @@
     <MESSAGE value="List实现类的特点" />
     <MESSAGE value="ArrayList的迭代遍历" />
     <MESSAGE value="Vector旧版方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vector旧版方法" />
+    <MESSAGE value="LinkedList特有方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedList特有方法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/jre/lib/javaws.jar!/com/sun/javaws/CacheUtil.class">
@@ -764,16 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/ArrayListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="34" column="49" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/src.zip!/java/util/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16440">
@@ -785,20 +777,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/VectorDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/damien/list/ArrayListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="202">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/damien/list/arraylist/LinkedListDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/damien/list/LinkedListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+        <state relative-caret-position="202">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/list/VectorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
