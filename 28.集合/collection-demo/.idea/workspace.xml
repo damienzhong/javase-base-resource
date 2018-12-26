@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2479811-d3d8-40aa-a2e3-6fa378fc7c0a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/damien/generic/ObjectTool2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/damien/generic/ObjectTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/damien/generic/ObjectTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/damien/generic/ObjectToolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/damien/generic/ObjectToolDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../数据结构图.eddx" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构图.eddx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,43 +45,44 @@
     <session id="1666865754">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="List的实现类特点" value="196" />
           <entry key="class" value="2" />
-          <entry key="java" value="5620" />
-          <entry key="txt" value="247" />
+          <entry key="java" value="5660" />
+          <entry key="txt" value="251" />
           <entry key="数据结构" value="233" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="5620" />
-          <entry key="PLAIN_TEXT" value="676" />
+          <entry key="JAVA" value="5660" />
+          <entry key="PLAIN_TEXT" value="680" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="List的实现类特点" value="1" />
           <entry key="class" value="2" />
-          <entry key="java" value="38" />
+          <entry key="java" value="39" />
           <entry key="数据结构" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="38" />
+          <entry key="JAVA" value="39" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -94,22 +94,25 @@
         <entry file="file://$PROJECT_DIR$/src/damien/generic/ObjectTool.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding>
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-              </folding>
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/damien/generic/ObjectTool2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/damien/generic/ObjectToolDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+            <state relative-caret-position="744">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -161,8 +164,8 @@
         <option value="$PROJECT_DIR$/src/damien/list/ArrayListTest2.java" />
         <option value="$PROJECT_DIR$/src/damien/generic/GenericDemo.java" />
         <option value="$PROJECT_DIR$/src/damien/generic/GenericTest.java" />
-        <option value="$PROJECT_DIR$/src/damien/generic/ObjectTool.java" />
         <option value="$PROJECT_DIR$/src/damien/generic/ObjectToolDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/generic/ObjectTool.java" />
       </list>
     </option>
   </component>
@@ -184,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -218,24 +220,18 @@
               <item name="damien" type="462c0819:PsiDirectoryNode" />
               <item name="generic" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="collection-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="collection-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="damien" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/MyGit/javase-base-resource/28.集合/collection-demo/src/damien/array/ArrayDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545748954809" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545835891822" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -365,7 +361,8 @@
       <workItem from="1545442001752" duration="9483000" />
       <workItem from="1545477168377" duration="4240000" />
       <workItem from="1545529775905" duration="9546000" />
-      <workItem from="1545744168120" duration="2615000" />
+      <workItem from="1545744168120" duration="3953000" />
+      <workItem from="1545835608953" duration="282000" />
     </task>
     <task id="LOCAL-00001" summary="对象数组">
       <created>1544887982807</created>
@@ -605,17 +602,24 @@
       <option name="project" value="LOCAL" />
       <updated>1545748002183</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="泛型类">
+      <created>1545749018827</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1545749018827</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54381000" />
+    <option name="totallyTimeSpent" value="56001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49777284" visible="true" weight="0.16311301" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49777284" visible="true" weight="0.16471216" />
       <window_info id="Structure" order="1" sideWeight="0.5016685" side_tool="true" weight="0.15511727" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -624,7 +628,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29287305" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29287305" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -652,7 +656,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Collection的toArray()方法" />
     <MESSAGE value="iteraotr()" />
     <MESSAGE value="错误代码" />
     <MESSAGE value="去除错误代码" />
@@ -677,7 +680,8 @@
     <MESSAGE value="泛型概述" />
     <MESSAGE value="结合泛型遍历集合中的自定义对象" />
     <MESSAGE value="泛型问题引入" />
-    <option name="LAST_COMMIT_MESSAGE" value="泛型问题引入" />
+    <MESSAGE value="泛型类" />
+    <option name="LAST_COMMIT_MESSAGE" value="泛型类" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/jre/lib/javaws.jar!/com/sun/javaws/CacheUtil.class">
@@ -831,17 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="320" column="24" lean-forward="true" selection-start-line="320" selection-start-column="22" selection-end-line="320" selection-end-column="28" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-            <element signature="e#11079#11080#0" expanded="true" />
-            <element signature="e#11117#11118#0" expanded="true" />
-            <element signature="e#31007#31008#0" expanded="true" />
-            <element signature="e#31039#31040#0" expanded="true" />
-            <element signature="e#31046#33340#0" />
-            <element signature="e#31382#31383#0" expanded="true" />
-            <element signature="e#31427#31428#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -849,10 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="148" column="17" lean-forward="true" selection-start-line="148" selection-start-column="17" selection-end-line="148" selection-end-column="17" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -924,20 +913,21 @@
     <entry file="file://$PROJECT_DIR$/src/damien/generic/ObjectTool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-          </folding>
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/damien/generic/ObjectToolDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+        <state relative-caret-position="744">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/generic/ObjectTool2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
