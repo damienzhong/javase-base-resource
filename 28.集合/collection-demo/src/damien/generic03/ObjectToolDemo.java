@@ -1,4 +1,4 @@
-package damien.generic0;
+package damien.generic03;
 
 /**
  * 1、指定实现类的类型
@@ -11,10 +11,12 @@ package damien.generic0;
 //    }
 //}
 
+import damien.generic03.ObjectInter;
+
 /**
  * 2、未知类型
  */
-public class ObjectToolDemo<T> implements ObjectInter<T>{
+public class ObjectToolDemo<T> implements ObjectInter<T> {
 
     @Override
     public void show(T t) {
