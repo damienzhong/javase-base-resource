@@ -12,7 +12,6 @@ package damien.news_02;
  *          可变参数的变量实质其实是一个数组
  *          如果一个方法有可变参数，并且有多个参数，那么，可变参数肯定是最后一个
  *
- *   求任意个数据的积。
  */
 public class ArgsDemo {
     public static void main(String[] args) {
