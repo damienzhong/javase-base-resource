@@ -1,5 +1,8 @@
 package damien.news_02;
 
+import java.util.Arrays;
+import java.util.List;
+
 /**
  *  可变参数：定义方法的时候不知道定义多少个参数
  *
@@ -22,6 +25,7 @@ public class ArgsDemo {
         System.out.println(sum(a, b));
         System.out.println(sum(a, b, c));
         System.out.println(sum(a, b, c, d));
+
     }
 
     public static int sum(int b,int c,int... a){
