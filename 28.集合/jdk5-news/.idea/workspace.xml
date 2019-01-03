@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a830b564-1881-473f-871a-58d89d78be3a" name="Default Changelist" comment="增强for循环">
-      <change beforePath="$PROJECT_DIR$/../../28.集合/collection-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../28.集合/collection-demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../28.集合/数据结构图.eddx" beforeDir="false" afterPath="$PROJECT_DIR$/../../28.集合/数据结构图.eddx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +15,7 @@
     <session id="608220033">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
@@ -101,7 +100,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="409" />
     <option name="y" value="129" />
     <option name="width" value="1490" />
@@ -265,7 +264,7 @@
       <updated>1545921900286</updated>
       <workItem from="1545921904299" duration="1041000" />
       <workItem from="1546004151240" duration="5157000" />
-      <workItem from="1546518190583" duration="707000" />
+      <workItem from="1546518190583" duration="1305000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <created>1545921968023</created>
@@ -313,7 +312,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6905000" />
+    <option name="totallyTimeSpent" value="7503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
