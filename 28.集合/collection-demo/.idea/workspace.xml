@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2479811-d3d8-40aa-a2e3-6fa378fc7c0a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构图.eddx" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构图.eddx" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-965802419">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1666865754">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="6" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="List的实现类特点" value="196" />
+          <entry key="class" value="2" />
+          <entry key="java" value="6269" />
+          <entry key="txt" value="262" />
+          <entry key="数据结构" value="233" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="6269" />
+          <entry key="PLAIN_TEXT" value="691" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="List的实现类特点" value="1" />
+          <entry key="class" value="2" />
+          <entry key="java" value="53" />
+          <entry key="数据结构" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="53" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/damien/generic04/GenericDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#265#273#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addAll</find>
+      <find>contains</find>
+      <find>iterator</find>
+      <find>Itr</find>
+      <find>add</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/damien/array/ArrayDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/collection/CollectionDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/collection/CollectionDemo2.java" />
+        <option value="$PROJECT_DIR$/src/damien/collection/CollectionDemo3.java" />
+        <option value="$PROJECT_DIR$/src/damien/collection/Demo.java" />
+        <option value="$PROJECT_DIR$/src/damien/list/ListDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/list/ListDemo2.java" />
+        <option value="$PROJECT_DIR$/src/damien/list/ListDemo3.java" />
+        <option value="$PROJECT_DIR$/src/damien/list/ListDemo4.java" />
+        <option value="$PROJECT_DIR$/src/damien/list/ListDemo5.java" />
+        <option value="$PROJECT_DIR$/src/damien/list/ListTest.java" />
+        <option value="$PROJECT_DIR$/src/damien/数据结构" />
+        <option value="$PROJECT_DIR$/src/damien/list/List的实现类特点" />
+        <option value="$PROJECT_DIR$/src/damien/list/arraylist/ArrayListDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/list/arraylist/VectorDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/list/arraylist/LinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/list/LinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/list/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/damien/list/ArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/damien/array/Student.java" />
+        <option value="$PROJECT_DIR$/src/damien/list/ArrayListTest2.java" />
+        <option value="$PROJECT_DIR$/src/damien/generic/GenericDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/generic/GenericTest.java" />
+        <option value="$PROJECT_DIR$/src/damien/generic/ObjectToolDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/generic/ObjectTool.java" />
+        <option value="$PROJECT_DIR$/src/damien/generic/ObjectTool2.java" />
+        <option value="$PROJECT_DIR$/src/damien/generic02/ObjectTool.java" />
+        <option value="$PROJECT_DIR$/src/damien/generic02/ObjectToolDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/generic0/ObjectInter.java" />
+        <option value="$PROJECT_DIR$/src/damien/generic03/generic0/ObjectToolDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/generic0/ObjectToolDemo.java" />
+        <option value="$PROJECT_DIR$/src/damien/generic04/GenericDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="57" />
+    <option name="width" value="1490" />
+    <option name="height" value="855" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="collection-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collection-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="collection-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collection-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="collection-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collection-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="damien" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="collection-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collection-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="damien" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="collection-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collection-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="damien" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="collection-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collection-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="damien" type="462c0819:PsiDirectoryNode" />
+              <item name="generic02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="collection-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collection-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="damien" type="462c0819:PsiDirectoryNode" />
+              <item name="generic02" type="462c0819:PsiDirectoryNode" />
+              <item name="ObjectToolDemo" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/MyGit/javase-base-resource/28.集合/collection-demo/src/damien/array/ArrayDemo.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545921846398" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyGit\javase-base-resource\28.集合\collection-demo\src\damien\generic03" />
+      <recent name="D:\MyGit\javase-base-resource\28.集合\collection-demo\src\damien" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="damien.generic02" />
+      <recent name="damien.list" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyGit\javase-base-resource\28.集合\collection-demo\src\damien\file" />
+      <recent name="D:\MyGit\javase-base-resource\28.集合\collection-demo\src\damien\list" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ObjectToolDemo (1)">
+    <configuration name="ArrayListTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="damien.list.ArrayListTest2" />
+      <module name="collection-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="damien.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="damien.generic.GenericDemo" />
+      <module name="collection-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="damien.generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="damien.generic.GenericTest" />
+      <module name="collection-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="damien.generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectToolDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="damien.generic02.ObjectToolDemo" />
+      <module name="collection-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="damien.generic02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectToolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="damien.generic.ObjectToolDemo" />
+      <module name="collection-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="damien.generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ArrayListTest2" />
+      <item itemvalue="Application.GenericDemo" />
+      <item itemvalue="Application.GenericTest" />
+      <item itemvalue="Application.ObjectToolDemo" />
+      <item itemvalue="Application.ObjectToolDemo (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ObjectToolDemo (1)" />
+        <item itemvalue="Application.ObjectToolDemo" />
+        <item itemvalue="Application.GenericTest" />
+        <item itemvalue="Application.GenericDemo" />
+        <item itemvalue="Application.ArrayListTest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2479811-d3d8-40aa-a2e3-6fa378fc7c0a" name="Default Changelist" comment="" />
+      <created>1544886384988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544886384988</updated>
+      <workItem from="1544886387986" duration="121000" />
+      <workItem from="1544886751470" duration="1470000" />
+      <workItem from="1544925677480" duration="6333000" />
+      <workItem from="1545046916800" duration="7663000" />
+      <workItem from="1545138898690" duration="1293000" />
+      <workItem from="1545225561326" duration="4812000" />
+      <workItem from="1545313449855" duration="5900000" />
+      <workItem from="1545404197211" duration="905000" />
+      <workItem from="1545442001752" duration="9483000" />
+      <workItem from="1545477168377" duration="4240000" />
+      <workItem from="1545529775905" duration="9546000" />
+      <workItem from="1545744168120" duration="3953000" />
+      <workItem from="1545835608953" duration="362000" />
+      <workItem from="1545914602848" duration="5781000" />
+    </task>
+    <task id="LOCAL-00001" summary="对象数组">
+      <created>1544887982807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544887982807</updated>
+    </task>
+    <task id="LOCAL-00002" summary="集合框架概述">
+      <created>1544930175335</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544930175335</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Collection功能概述">
+      <created>1544949623661</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544949623661</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Collection的添加功能">
+      <created>1545054992525</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1545054992525</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Collection的删除与长度功能">
+      <created>1545056061369</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1545056061369</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Collection的判断功能">
+      <created>1545057172379</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1545057172379</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Collection的toArray()方法">
+      <created>1545058503365</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1545058503365</updated>
+    </task>
+    <task id="LOCAL-00008" summary="iteraotr()">
+      <created>1545060106820</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1545060106820</updated>
+    </task>
+    <task id="LOCAL-00009" summary="错误代码">
+      <created>1545060853892</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1545060853892</updated>
+    </task>
+    <task id="LOCAL-00010" summary="去除错误代码">
+      <created>1545060883970</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1545060883970</updated>
+    </task>
+    <task id="LOCAL-00011" summary="去除错误代码">
+      <created>1545060943578</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1545060943578</updated>
+    </task>
+    <task id="LOCAL-00012" summary="List引入">
+      <created>1545227592043</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1545227592044</updated>
+    </task>
+    <task id="LOCAL-00013" summary="List概述">
+      <created>1545228851777</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1545228851777</updated>
+    </task>
+    <task id="LOCAL-00014" summary="List概述">
+      <created>1545228895661</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1545228895661</updated>
+    </task>
+    <task id="LOCAL-00015" summary="List概述与特点">
+      <created>1545229601800</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1545229601800</updated>
+    </task>
+    <task id="LOCAL-00016" summary="List特有功能">
+      <created>1545318001664</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1545318001664</updated>
+    </task>
+    <task id="LOCAL-00017" summary="List特有遍历">
+      <created>1545318600110</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1545318600110</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ListIterator">
+      <created>1545320213244</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1545320213244</updated>
+    </task>
+    <task id="LOCAL-00019" summary="并发修改异常问题">
+      <created>1545404978898</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1545404978898</updated>
+    </task>
+    <task id="LOCAL-00020" summary="并发修改异常问题解决方案">
+      <created>1545444451489</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1545444451489</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Stack and Queue">
+      <created>1545445708278</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1545445708278</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Array">
+      <created>1545447581003</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1545447581003</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Link">
+      <created>1545449692001</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1545449692001</updated>
+    </task>
+    <task id="LOCAL-00024" summary="List实现类的特点">
+      <created>1545452233456</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1545452233456</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ArrayList的迭代遍历">
+      <created>1545486227496</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1545486227496</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Vector旧版方法">
+      <created>1545487742513</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1545487742513</updated>
+    </task>
+    <task id="LOCAL-00027" summary="LinkedList特有方法">
+      <created>1545533215425</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1545533215426</updated>
+    </task>
+    <task id="LOCAL-00028" summary="切换类目录">
+      <created>1545534035943</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1545534035943</updated>
+    </task>
+    <task id="LOCAL-00029" summary="切换类目录">
+      <created>1545534135976</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1545534135976</updated>
+    </task>
+    <task id="LOCAL-00030" summary="ArrayList去除集合中字符串的重复值">
+      <created>1545536030980</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1545536030980</updated>
+    </task>
+    <task id="LOCAL-00031" summary="ArrayList去除集合中自定义对象的重复值">
+      <created>1545537617314</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1545537617314</updated>
+    </task>
+    <task id="LOCAL-00032" summary="泛型概述">
+      <created>1545554411262</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1545554411262</updated>
+    </task>
+    <task id="LOCAL-00033" summary="结合泛型遍历集合中的自定义对象">
+      <created>1545555307580</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1545555307580</updated>
+    </task>
+    <task id="LOCAL-00034" summary="泛型问题引入">
+      <created>1545748002183</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1545748002183</updated>
+    </task>
+    <task id="LOCAL-00035" summary="泛型类">
+      <created>1545749018827</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1545749018827</updated>
+    </task>
+    <task id="LOCAL-00036" summary="泛型类">
+      <created>1545835915056</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1545835915056</updated>
+    </task>
+    <task id="LOCAL-00037" summary="泛型方法">
+      <created>1545918823085</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1545918823085</updated>
+    </task>
+    <task id="LOCAL-00038" summary="泛型接口">
+      <created>1545920030240</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1545920030240</updated>
+    </task>
+    <task id="LOCAL-00039" summary="泛型接口">
+      <created>1545920310589</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1545920310589</updated>
+    </task>
+    <task id="LOCAL-00040" summary="泛型通配符">
+      <created>1545920659244</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1545920659244</updated>
+    </task>
+    <task id="LOCAL-00041" summary="泛型通配符">
+      <created>1545921648129</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1545921648129</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61862000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49777284" visible="true" weight="0.1663113" />
+      <window_info id="Structure" order="1" sideWeight="0.5016685" side_tool="true" weight="0.15511727" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29287305" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="List引入" />
+    <MESSAGE value="List概述" />
+    <MESSAGE value="List概述与特点" />
+    <MESSAGE value="List特有功能" />
+    <MESSAGE value="List特有遍历" />
+    <MESSAGE value="ListIterator" />
+    <MESSAGE value="并发修改异常问题" />
+    <MESSAGE value="并发修改异常问题解决方案" />
+    <MESSAGE value="Stack and Queue" />
+    <MESSAGE value="Array" />
+    <MESSAGE value="Link" />
+    <MESSAGE value="List实现类的特点" />
+    <MESSAGE value="ArrayList的迭代遍历" />
+    <MESSAGE value="Vector旧版方法" />
+    <MESSAGE value="LinkedList特有方法" />
+    <MESSAGE value="切换类目录" />
+    <MESSAGE value="ArrayList去除集合中字符串的重复值" />
+    <MESSAGE value="ArrayList去除集合中自定义对象的重复值" />
+    <MESSAGE value="泛型概述" />
+    <MESSAGE value="结合泛型遍历集合中的自定义对象" />
+    <MESSAGE value="泛型问题引入" />
+    <MESSAGE value="泛型类" />
+    <MESSAGE value="泛型方法" />
+    <MESSAGE value="泛型接口" />
+    <MESSAGE value="泛型通配符" />
+    <option name="LAST_COMMIT_MESSAGE" value="泛型通配符" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/jre/lib/javaws.jar!/com/sun/javaws/CacheUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="178" column="12" selection-start-line="178" selection-start-column="12" selection-end-line="178" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/collection/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/damien/array/ArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="49" selection-start-line="19" selection-start-column="8" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/collection/CollectionDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/list/ListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/collection/CollectionDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/list/ListDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/list/ListDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/list/ListDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/list/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/file/List的实现类特点">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/file/数据结构">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/collection/CollectionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="51" column="49" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="51" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/src.zip!/java/util/Enumeration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/list/LinkedListTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/damien/list/VectorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/list/ArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="733" column="22" selection-start-line="733" selection-start-column="22" selection-end-line="733" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/list/LinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="148" column="17" lean-forward="true" selection-start-line="148" selection-start-column="17" selection-end-line="148" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/array/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/list/ArrayListTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/collection-demo/damien/generic/GenericDemo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/generic/GenericTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/list/ArrayListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="20" column="49" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="20" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/list/ListDemo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/generic/GenericDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="19" column="59" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#426#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/generic/ObjectTool2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/generic/ObjectToolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/generic/ObjectTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/generic02/ObjectToolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2099">
+          <caret line="210" column="24" lean-forward="true" selection-start-line="210" selection-start-column="20" selection-end-line="210" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevSoftware/Java/jdk1.8.0_162/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="106" column="23" lean-forward="true" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/generic03/generic0/ObjectInter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/generic03/generic0/ObjectToolDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/generic03/ObjectInter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/generic03/ObjectToolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/generic02/ObjectTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/damien/generic04/GenericDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#265#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
