@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e2479811-d3d8-40aa-a2e3-6fa378fc7c0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/damien/generic04/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/damien/generic04/GenericDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../数据结构图.eddx" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构图.eddx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,7 +44,7 @@
     <session id="1666865754">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.12" value="1" />
@@ -93,8 +92,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/damien/generic04/GenericDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="35" selection-end-column="64" />
+            <state relative-caret-position="432">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#265#273#0" expanded="true" />
@@ -229,21 +228,6 @@
               <item name="generic02" type="462c0819:PsiDirectoryNode" />
               <item name="ObjectToolDemo" type="1a9f42e2:ClassTreeNode" />
             </path>
-            <path>
-              <item name="collection-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="collection-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="damien" type="462c0819:PsiDirectoryNode" />
-              <item name="generic04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="collection-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="collection-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="damien" type="462c0819:PsiDirectoryNode" />
-              <item name="generic04" type="462c0819:PsiDirectoryNode" />
-              <item name="GenericDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -255,7 +239,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/MyGit/javase-base-resource/28.集合/collection-demo/src/damien/array/ArrayDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545921631813" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545921846398" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -392,7 +376,7 @@
       <workItem from="1545529775905" duration="9546000" />
       <workItem from="1545744168120" duration="3953000" />
       <workItem from="1545835608953" duration="362000" />
-      <workItem from="1545914602848" duration="5455000" />
+      <workItem from="1545914602848" duration="5781000" />
     </task>
     <task id="LOCAL-00001" summary="对象数组">
       <created>1544887982807</created>
@@ -674,15 +658,21 @@
       <option name="project" value="LOCAL" />
       <updated>1545920659244</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="泛型通配符">
+      <created>1545921648129</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1545921648129</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61536000" />
+    <option name="totallyTimeSpent" value="61862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49777284" visible="true" weight="0.1663113" />
       <window_info id="Structure" order="1" sideWeight="0.5016685" side_tool="true" weight="0.15511727" />
@@ -693,7 +683,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29287305" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29287305" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1039,8 +1029,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/damien/generic04/GenericDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="35" selection-end-column="64" />
+        <state relative-caret-position="432">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#265#273#0" expanded="true" />
