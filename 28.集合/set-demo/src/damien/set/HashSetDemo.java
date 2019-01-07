@@ -14,7 +14,6 @@ public class HashSetDemo {
         set.add("world");
         set.add("hello");
         set.add("java");
-
         //遍历输出
         for (String s : set){
             System.out.println(s);
