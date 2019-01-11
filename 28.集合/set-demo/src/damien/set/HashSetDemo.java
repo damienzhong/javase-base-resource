@@ -18,5 +18,6 @@ public class HashSetDemo {
         for (String s : set){
             System.out.println(s);
         }
+
     }
 }
