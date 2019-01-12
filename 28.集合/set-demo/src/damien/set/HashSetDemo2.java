@@ -7,6 +7,15 @@ import java.util.HashSet;
 /**
  * 需求：存储自定义对象，并保证元素的唯一性
  * 要求：两个对象的成员变量值相同，则为同一元素
+ *
+ * 通过观察源码，发现add方法是跟hashCode()与equals()有关的
+ *
+ * 成员变量会影响哈希值
+ *  比较唯一性：把对象的成员变量值进行相加：
+ *      如果是基本数据类型，就直接相加
+ *      如果是引用类型，就加哈希值
+ *  name.hashCode=40 ,age=30
+ *  name.hashCode=20,age=50
  */
 public class HashSetDemo2 {
     public static void main(String[] args) {
