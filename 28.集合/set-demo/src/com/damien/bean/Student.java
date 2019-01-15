@@ -1,4 +1,4 @@
-package damien.bean;
+package com.damien.bean;
 
 import java.util.Objects;
 

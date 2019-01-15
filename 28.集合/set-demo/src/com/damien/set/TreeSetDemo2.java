@@ -1,6 +1,7 @@
-package damien.set;
+package com.damien.set;
 
-import damien.bean.Student;
+
+import com.damien.bean.Student;
 
 import java.util.TreeSet;
 

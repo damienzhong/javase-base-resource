@@ -1,4 +1,4 @@
-package damien.set;
+package com.damien.set;
 
 import java.util.TreeMap;
 import java.util.TreeSet;

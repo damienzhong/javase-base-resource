@@ -1,4 +1,4 @@
-package damien.set;
+package com.damien.set;
 
 import java.util.LinkedHashSet;
 
