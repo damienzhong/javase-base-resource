@@ -5,7 +5,7 @@ import java.util.Objects;
 /**
  * @author damienzhong
  */
-public class Student {
+public class Student implements Comparable<Student> {
 
     private String name;
     private int age;
@@ -51,5 +51,18 @@ public class Student {
     @Override
     public int hashCode() {
         return Objects.hash(getName(), getAge());
+    }
+
+    @Override
+    public int compareTo(Student o) {
+        //return -1;
+        //返回什么，其实应该根据我们的排序规则
+
+        //按照年龄从小到大排序
+        int num = this.age - o.age;
+
+        //成员变量值都相同即为同一个元素
+        int num2 = num == 0 ? this.name.compareTo(o.name) : num;
+        return num2;
     }
 }
