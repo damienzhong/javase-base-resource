@@ -20,11 +20,12 @@ public class TreeSetDemo2 {
         //创建元素
         Student s1 = new Student("呆萌钟", 24);
         Student s2 = new Student("米豆", 13);
-        Student s3 = new Student("老付", 23);
-        Student s4 = new Student("眨眼间", 21);
+        Student s3 = new Student("老付到底", 23);
+        Student s4 = new Student("眨眼间的方式发放", 21);
         Student s5 = new Student("呆萌钟", 24);
         Student s6 = new Student("呆萌钟", 25);
         Student s7 = new Student("呆萌", 24);
+        Student s8 = new Student("米豆", 23);
 
         //添加元素
         ts.add(s1);
@@ -34,6 +35,7 @@ public class TreeSetDemo2 {
         ts.add(s5);
         ts.add(s6);
         ts.add(s7);
+        ts.add(s8);
 
         //遍历
         for (Student s : ts) {

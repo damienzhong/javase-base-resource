@@ -53,16 +53,27 @@ public class Student implements Comparable<Student> {
         return Objects.hash(getName(), getAge());
     }
 
+//    @Override
+//    public int compareTo(Student o) {
+//        //return -1;
+//        //返回什么，其实应该根据我们的排序规则
+//
+//        //按照年龄从小到大排序
+//        int num = this.age - o.age;
+//
+//        //成员变量值都相同即为同一个元素
+//        int num2 = num == 0 ? this.name.compareTo(o.name) : num;
+//        return num2;
+//    }
+
     @Override
     public int compareTo(Student o) {
-        //return -1;
-        //返回什么，其实应该根据我们的排序规则
-
-        //按照年龄从小到大排序
-        int num = this.age - o.age;
-
-        //成员变量值都相同即为同一个元素
+        //按照姓名的长度排序
+        int num = this.name.length() - o.name.length();
+        //长度相同的情况下，比较姓名的内容
         int num2 = num == 0 ? this.name.compareTo(o.name) : num;
-        return num2;
+        //姓名的长度与内容都相同的时候，比较年龄
+        int num3 = num2 == 0 ? this.age - o.age : num2;
+        return num3;
     }
 }
