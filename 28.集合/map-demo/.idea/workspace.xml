@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30a67bb-06f2-40b6-b5ed-66afc9125815" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/damien/hashmap/LinkedHashMapDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/damien/bean/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/damien/bean/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/damien/hashmap/HashMapDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/damien/hashmap/HashMapDemo3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,23 +24,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="11" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1743" />
+          <entry key="java" value="2007" />
           <entry key="txt" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1743" />
+          <entry key="JAVA" value="2007" />
           <entry key="PLAIN_TEXT" value="64" />
         </counts>
       </usages-collector>
@@ -49,26 +48,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/damien/hashmap/HashMapDemo3.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/damien/hashmap/LinkedHashMapDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="565">
+              <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/damien/bean/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
-              <folding>
-                <element signature="e#1012#1013#0" expanded="true" />
-                <element signature="e#1068#1069#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/com/damien/hashmap/HashMapDemo2.java" />
         <option value="$PROJECT_DIR$/src/com/damien/hashmap/HashMapDemo3.java" />
         <option value="$PROJECT_DIR$/src/com/damien/bean/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/damien/hashmap/LinkedHashMapDemo.java" />
       </list>
     </option>
   </component>
@@ -145,22 +132,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="damien" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="map-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="map-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="damien" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="map-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="map-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="damien" type="462c0819:PsiDirectoryNode" />
-              <item name="hashmap" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -170,7 +141,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547996093877" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547997030884" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -186,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashMapDemo3">
+  <component name="RunManager" selected="Application.LinkedHashMapDemo">
     <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.damien.hashmap.HashMapDemo" />
       <module name="map-demo" />
@@ -226,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.damien.map.MapDemo3" />
+    <configuration name="LinkedHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.damien.hashmap.LinkedHashMapDemo" />
       <module name="map-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.damien.map.*" />
+          <option name="PATTERN" value="com.damien.hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,19 +224,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MapDemo3" />
       <item itemvalue="Application.MapDemo4" />
       <item itemvalue="Application.HashMapDemo" />
       <item itemvalue="Application.HashMapDemo2" />
       <item itemvalue="Application.HashMapDemo3" />
+      <item itemvalue="Application.LinkedHashMapDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedHashMapDemo" />
         <item itemvalue="Application.HashMapDemo3" />
         <item itemvalue="Application.HashMapDemo2" />
         <item itemvalue="Application.HashMapDemo" />
         <item itemvalue="Application.MapDemo4" />
-        <item itemvalue="Application.MapDemo3" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +251,7 @@
       <option name="presentableId" value="Default" />
       <updated>1547868966722</updated>
       <workItem from="1547868969420" duration="2531000" />
-      <workItem from="1547975921774" duration="8350000" />
+      <workItem from="1547975921774" duration="9286000" />
     </task>
     <task id="LOCAL-00001" summary="Map概述">
       <created>1547869482696</created>
@@ -345,17 +316,24 @@
       <option name="project" value="LOCAL" />
       <updated>1547995553053</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="HashMap&lt;Student,String&gt;">
+      <created>1547996111917</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547996111917</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10881000" />
+    <option name="totallyTimeSpent" value="11817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1924307" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1924307" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -365,7 +343,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23496659" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23496659" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -400,7 +378,8 @@
     <MESSAGE value="Map entrySet" />
     <MESSAGE value="HashMap" />
     <MESSAGE value="HashMap练习题" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashMap练习题" />
+    <MESSAGE value="HashMap&lt;Student,String&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashMap&lt;Student,String&gt;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/damien/map/MapDemo.java">
@@ -465,8 +444,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/damien/hashmap/HashMapDemo3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="216">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -475,11 +454,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/damien/bean/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+        <state relative-caret-position="517">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="23" />
           <folding>
             <element signature="e#1012#1013#0" expanded="true" />
             <element signature="e#1068#1069#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/damien/hashmap/LinkedHashMapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
