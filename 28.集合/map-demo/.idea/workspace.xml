@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30a67bb-06f2-40b6-b5ed-66afc9125815" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/damien/map/MapDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/damien/map/MapDemo4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,24 +24,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="898" />
-          <entry key="txt" value="39" />
+          <entry key="java" value="964" />
+          <entry key="txt" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="898" />
-          <entry key="PLAIN_TEXT" value="39" />
+          <entry key="JAVA" value="964" />
+          <entry key="PLAIN_TEXT" value="43" />
         </counts>
       </usages-collector>
     </session>
@@ -63,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/damien/map/MapDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="288">
+              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,10 +73,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/damien/map/MapDemo4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="656">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/damien/map/MapDemo3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+            <state relative-caret-position="360">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,6 +114,7 @@
         <option value="$PROJECT_DIR$/src/com/damien/map/MapDemo.java" />
         <option value="$PROJECT_DIR$/src/com/damien/map/MapDemo2.java" />
         <option value="$PROJECT_DIR$/src/com/damien/map/MapDemo3.java" />
+        <option value="$PROJECT_DIR$/src/com/damien/map/MapDemo4.java" />
       </list>
     </option>
   </component>
@@ -167,7 +180,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547992488804" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547993510966" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -183,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapDemo3">
+  <component name="RunManager" selected="Application.MapDemo4">
     <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.damien.map.MapDemo" />
       <module name="map-demo" />
@@ -223,13 +236,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MapDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.damien.map.MapDemo4" />
+      <module name="map-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.damien.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.MapDemo" />
       <item itemvalue="Application.MapDemo2" />
       <item itemvalue="Application.MapDemo3" />
+      <item itemvalue="Application.MapDemo4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapDemo4" />
         <item itemvalue="Application.MapDemo3" />
         <item itemvalue="Application.MapDemo2" />
         <item itemvalue="Application.MapDemo" />
@@ -247,7 +275,7 @@
       <option name="presentableId" value="Default" />
       <updated>1547868966722</updated>
       <workItem from="1547868969420" duration="2531000" />
-      <workItem from="1547975921774" duration="4792000" />
+      <workItem from="1547975921774" duration="5860000" />
     </task>
     <task id="LOCAL-00001" summary="Map概述">
       <created>1547869482696</created>
@@ -277,15 +305,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547992080317</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Map 的遍历">
+      <created>1547992518760</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547992518760</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7323000" />
+    <option name="totallyTimeSpent" value="8391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1924307" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -328,7 +362,8 @@
     <MESSAGE value="Map功能概述" />
     <MESSAGE value="Map's CUD" />
     <MESSAGE value="Map's R method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Map's R method" />
+    <MESSAGE value="Map 的遍历" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map 的遍历" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/damien/map/MapDemo.java">
@@ -343,8 +378,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/damien/map/MapDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="288">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -353,8 +388,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/damien/map/MapDemo3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        <state relative-caret-position="360">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/damien/map/MapDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
