@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30a67bb-06f2-40b6-b5ed-66afc9125815" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/damien/hashmap/HashMapDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/damien/interview/InterviewTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,38 +25,47 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="20" />
+          <entry key="java" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2998" />
-          <entry key="txt" value="87" />
+          <entry key="java" value="3089" />
+          <entry key="txt" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2998" />
-          <entry key="PLAIN_TEXT" value="87" />
+          <entry key="JAVA" value="3089" />
+          <entry key="PLAIN_TEXT" value="103" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/damien/hashmap/HashMapDemo4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="1272">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/damien/interview/InterviewTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -88,6 +97,7 @@
         <option value="$PROJECT_DIR$/src/com/damien/treemap/TreeMapDemo.java" />
         <option value="$PROJECT_DIR$/src/com/damien/treemap/TreeMapDemo2.java" />
         <option value="$PROJECT_DIR$/src/com/damien/hashmap/HashMapDemo4.java" />
+        <option value="$PROJECT_DIR$/src/com/damien/interview/InterviewTest.java" />
       </list>
     </option>
   </component>
@@ -135,14 +145,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="damien" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="map-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="map-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="damien" type="462c0819:PsiDirectoryNode" />
-              <item name="hashmap" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -153,7 +155,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548165170667" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548166064124" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -265,7 +267,7 @@
       <workItem from="1547868969420" duration="2531000" />
       <workItem from="1547975921774" duration="9650000" />
       <workItem from="1548074267117" duration="3333000" />
-      <workItem from="1548161147696" duration="3967000" />
+      <workItem from="1548161147696" duration="4801000" />
     </task>
     <task id="LOCAL-00001" summary="Map概述">
       <created>1547869482696</created>
@@ -365,17 +367,24 @@
       <option name="project" value="LOCAL" />
       <updated>1548163276253</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="HashMap嵌套HashMap">
+      <created>1548165194543</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1548165194543</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19481000" />
+    <option name="totallyTimeSpent" value="20315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19669509" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19669509" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -424,7 +433,8 @@
     <MESSAGE value="LinkedHashMap" />
     <MESSAGE value="TreeMap" />
     <MESSAGE value="TreeMap练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="TreeMap练习" />
+    <MESSAGE value="HashMap嵌套HashMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashMap嵌套HashMap" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/damien/map/MapDemo.java">
@@ -540,11 +550,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/damien/hashmap/HashMapDemo4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="1272">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/damien/interview/InterviewTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
