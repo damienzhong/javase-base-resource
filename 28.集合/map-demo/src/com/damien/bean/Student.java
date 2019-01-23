@@ -5,7 +5,7 @@ import java.util.Objects;
 /**
  * @author damienzhong
  */
-public class Student {
+public class Student implements Comparable{
     private String name;
 
     private int age;
@@ -51,5 +51,12 @@ public class Student {
     @Override
     public int hashCode() {
         return Objects.hash(getName(), getAge());
+    }
+
+    @Override
+    public int compareTo(Object o) {
+        Student s = (Student)o;
+        int num = this.age-s.age;
+        return num;
     }
 }
