@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30a67bb-06f2-40b6-b5ed-66afc9125815" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/damien/集合总结" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/damien/bean/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/damien/bean/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/damien/collections/CollectionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/damien/collections/CollectionsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,34 +27,39 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="26" />
+          <entry key="迭代" value="1" />
+          <entry key="集合总结" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="26" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="3919" />
-          <entry key="txt" value="125" />
+          <entry key="txt" value="134" />
+          <entry key="迭代" value="4" />
+          <entry key="集合总结" value="762" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="3919" />
-          <entry key="PLAIN_TEXT" value="125" />
+          <entry key="PLAIN_TEXT" value="900" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/damien/collections/CollectionsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            <state relative-caret-position="632">
+              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,23 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/damien/bean/Student.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/damien/集合总结">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
-              <folding>
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
-                <element signature="e#1079#1080#0" expanded="true" />
-                <element signature="e#1135#1136#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1875">
+              <caret line="75" column="65" selection-start-line="75" selection-start-column="65" selection-end-line="75" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -114,6 +106,8 @@
         <option value="$PROJECT_DIR$/src/com/damien/collections/CollectionsDemo.java" />
         <option value="$PROJECT_DIR$/src/com/damien/bean/Student.java" />
         <option value="$PROJECT_DIR$/src/com/damien/collections/CollectionsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/damien/迭代" />
+        <option value="$PROJECT_DIR$/src/com/damien/集合总结" />
       </list>
     </option>
   </component>
@@ -160,22 +154,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="damien" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="map-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="map-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="damien" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="map-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="map-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="damien" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -186,7 +164,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548250571652" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548252844506" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -299,7 +277,7 @@
       <workItem from="1547975921774" duration="9650000" />
       <workItem from="1548074267117" duration="3333000" />
       <workItem from="1548161147696" duration="5652000" />
-      <workItem from="1548244921265" duration="4710000" />
+      <workItem from="1548244921265" duration="6927000" />
     </task>
     <task id="LOCAL-00001" summary="Map概述">
       <created>1547869482696</created>
@@ -434,17 +412,24 @@
       <option name="project" value="LOCAL" />
       <updated>1548249569188</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Collections排序自定义对象集合">
+      <created>1548250601071</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1548250601071</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25876000" />
+    <option name="totallyTimeSpent" value="28093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1988273" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1988273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -453,7 +438,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35634744" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35634744" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -498,7 +483,8 @@
     <MESSAGE value="面试题解答" />
     <MESSAGE value="Collections" />
     <MESSAGE value="Collections练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections练习" />
+    <MESSAGE value="Collections排序自定义对象集合" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections排序自定义对象集合" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/damien/map/MapDemo.java">
@@ -638,10 +624,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/damien/bean/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/com/damien/迭代">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/damien/bean/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
             <element signature="e#350#351#0" expanded="true" />
             <element signature="e#377#378#0" expanded="true" />
@@ -659,11 +652,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/damien/collections/CollectionsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        <state relative-caret-position="632">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/damien/集合总结">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="75" column="65" selection-start-line="75" selection-start-column="65" selection-end-line="75" selection-end-column="65" />
         </state>
       </provider>
     </entry>
