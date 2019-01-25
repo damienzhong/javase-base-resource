@@ -8,7 +8,7 @@ package damien.exception;
  * 问题：Exception
  * 运行期间的问题：RuntimeException，这种问题我们也不处理，因为是写代码的人的问题，出现这个问题是因为代码不够严谨，需要修正代码。
  * 编译期间的问题：不是RuntimeException的异常 。这种问题我们必须处理。因为你不处理，编译就不能通过。
- *
+ * <p>
  * 如果程序出现了问题，我们没有做任何处理，最终jvm会做出默认得处理。
  * 把异常得名称，原因以及出现得问题等信息输出在控制台。
  * 同时会结束程序。
@@ -18,7 +18,7 @@ public class ExceptionDemo {
         int a = 10;
         int b = 0;
 
-        System.out.println(a/b);
+        System.out.println(a / b);
 
         System.out.println("程序执行完成");
     }
