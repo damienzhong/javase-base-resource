@@ -3,6 +3,7 @@ package damien.exception;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.zip.DataFormatException;
 
 /**
  * throws:
@@ -33,7 +34,7 @@ public class ExceptionDemo7 {
     }
 
     //编译时期异常
-    public static void method() throws ParseException {
+    public static void method() throws ParseException, DataFormatException {
         String s = "2019/02/13";
 
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd");
@@ -41,7 +42,7 @@ public class ExceptionDemo7 {
         System.out.println(date);
     }
 
-    public static void method2() throws ParseException {
+    public static void method2() throws ParseException,DataFormatException {
         method();
     }
 }
