@@ -1,5 +1,11 @@
 package damien.zhuyi;
 
+import javax.management.BadAttributeValueExpException;
+import java.lang.instrument.IllegalClassFormatException;
+import java.security.acl.AclNotFoundException;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+
 /**
  * 异常注意事项：
  * 1、子类覆盖父类方法时，子类的方法必须抛出相同的异常或父类异常的子类。（父亲坏了，儿子不能比父亲更坏）
@@ -9,5 +15,22 @@ package damien.zhuyi;
 public class ExceptionDemo {
     public static void main(String[] args) {
 
+    }
+}
+
+class Fu{
+    public void method(){}
+}
+
+class Zi extends Fu{
+    @Override
+    public void method() {
+        String s = "2019-02-25";
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("");
+        try {
+            simpleDateFormat.parse(s);
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
     }
 }
