@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18b5167c-a781-4a6d-8149-2c68760c53b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="18b5167c-a781-4a6d-8149-2c68760c53b5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +13,7 @@
     <session id="78160145">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.9" value="2" />
           <entry key="project.opened" value="3" />
@@ -253,7 +251,7 @@
       <updated>1551186649646</updated>
       <workItem from="1551186652640" duration="4998000" />
       <workItem from="1551269764425" duration="5402000" />
-      <workItem from="1551965462020" duration="1371000" />
+      <workItem from="1551965462020" duration="1482000" />
     </task>
     <task id="LOCAL-00001" summary="File类">
       <created>1551187584979</created>
@@ -308,7 +306,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11771000" />
+    <option name="totallyTimeSpent" value="11882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
